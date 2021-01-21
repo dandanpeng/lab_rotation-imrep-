@@ -1,5 +1,6 @@
 # lab_rotation_imrep
 
+### Part 1: Analysis of 150bp TRB data
 - cell 8: Histogram of # of supporting reads from each tool 
 - cell 9: Histogram of # of clone size from each tool
 - cell 11: clone size relative error (|clone size from RNA-Seq tool - clone size from TCR-Seq|/clone size from TCR-Seq)
@@ -28,4 +29,22 @@
 - cell 47: Non-cumulative percent capture (in TCR-Seq) from each sample
 - cell 48: Scatter plot of IMREP and TCR-Seq overlapping clones' log frequency 
 - cell 49: Scatter plot of IMREP and TCR-Seq overlapping clones'log frequency (x: TCR clone's log frequency; y: |IMREP's frequency - TCR-Seq's frequency|)
-- cell 50: 
+- cell 50: Scatter plot of MIXCR and TCR-Seq overlapping clones'log frequency (x: TCR clone's log frequency; y: |MIXCR's frequency - TCR-Seq's frequency|)
+- cell 51: Scatter plot of TRUST4 and TCR-Seq overlapping clones'log frequency (x: TCR clone's log frequency; y: |TRUST4's frequency - TCR-Seq's frequency|)
+- cell 52: Jaccard index of TCR-Seq and IMREP's k-mers
+- cell 53: Jaccard index of TCR-Seq and MIXCR's k-mers
+- cell 54: Jaccard index of TCR-Seq and TRUST4's k-mers
+- cell 58: Histogram of Jaccard index of each sample from all tools
+- cell 60: Histogram of V-gene usage frequency in monoclonal samples from TCR-Seq
+- cell 62: Histogram of V-gene usage frequency in polyclonal samples from TCR-Seq
+- cell 63: Histogram of J-gene usage frequency in monoclonal samples from TCR-Seq
+- cell 64: Histogram of J-gene usage frequency in polyclonal samples from TCR-Seq
+- cell 66: Histogram of V-gene usage frequency in monoclonal samples from IMREP
+- cell 68: Histogram of V-gene usage frequency in polyclonal samples from IMREP
+- cell 69: Histogram of J-gene usage frequency in monoclonal samples from IMREP
+- cell 75: Scatter plot of common V-gene usage frequency from TCR-Seq and IMREP
+
+
+
+
+

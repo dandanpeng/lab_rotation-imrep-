@@ -44,7 +44,25 @@
 - cell 69: Histogram of J-gene usage frequency in monoclonal samples from IMREP
 - cell 75: Scatter plot of common V-gene usage frequency from TCR-Seq and IMREP
 
+### Part 2: Compare TRA data and TRB data analysis results from RNA-Seq tools
+- cell 78: Scatter plot of # of supporting reads from IMREP TRA and IMREP TRB
+- cell 80: Scatter plot of SDI from IMREP TRA and IMREP TRB 
+- cell 83: Scatter plot of # of supporting reads from MIXCR TRA and MIXCR TRB
+- cell 84: Scatter plot of SDI from MIXCR TRA and MIXCR TRB 
+- cell 88: Scatter plot of # of supporting reads from TRUST4 TRA and TRUST4 TRB
+- cell 90: Scatter plot of SDI from TRUST4 TRA and TRUST4 TRB 
 
+### Part 3: Analysis of shorter RNA-Seq reads
+- cell 99: Histogram of # of supporting reads from all tools (RNA-Seq 75bp and TCR-Seq)
+- cell 102: Histogram of # of clones from all tools (RNA-Seq 75bp and TCR-Seq)
+- cell 104: SDI relative error with RNA-Seq 75bp and TCR-Seq
+- cell 106: Scatter plot of TCR's major clones' frequency in RNA-Seq 75bp
+- cell 108: TPR, FNR and FPR in RNA-Seq 75bp (TP: # of clones show in RNA-Seq tools and TCR-Seq; FN: # of clones show in RNA-Seq tools but not in TCR-Seq; FP: # of clones show in TCR-Seq but not in RNA-Seq tools)
+- cell 117:  Histogram of # of supporting reads from all tools (RNA-Seq 50bp and TCR-Seq)
+- cell 120: Histogram of # of clones from all tools (RNA-Seq 50bp and TCR-Seq)
+- cell 122: SDI relative error with RNA-Seq 50bp and TCR-Seq
+- cell 124: Scatter plot of TCR's major clones' frequency in RNA-Seq 50bp
+- cell 126: TPR, FNR and FPR in RNA-Seq 50bp
 
 
 
